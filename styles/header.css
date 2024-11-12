@@ -1,0 +1,14 @@
+.header {
+  background-color: lightblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.header-text {
+  background-image: url("content/IMG_E9565-scaled.jpg");
+  font-family:Roboto,Arial;
+  font-size: 40px;
+}
+

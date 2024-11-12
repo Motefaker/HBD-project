@@ -1,0 +1,61 @@
+.body-section {
+  display: flex;
+  align-items: top;
+}
+
+
+.celebration-image {
+  display: inline-block;
+  width: 400px;
+  margin-right: 12px;
+}
+
+.body-text {
+
+  font-family: Roboto,Arial;
+  font-size: 18px;
+  line-height: 20x;
+}
+
+.text-box {
+  display: flex;
+  background-color: lightcoral;
+}
+
+.low-body {
+  font-family: Roboto,Arial;
+  background-color: lightgrey;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 0;
+}
+
+.button-click {
+  display: flex;
+  justify-content: center;
+}
+
+.button-click-style {
+  cursor: pointer;
+  background-color: lightgreen;
+  border: solid;
+  border-width: 1px;
+  border-radius: 10px;
+  font-family: Roboto,Arial;
+  font-size: 16px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.lastone {
+  background-color: lightskyblue;
+  display: flex;
+  justify-content: center;
+  margin-top: 0;
+}
+
+.lastone-text {
+  font-family: Roboto,Arial;
+  font-size: 16px;
+  font-weight: bold;
+}
